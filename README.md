@@ -22,13 +22,6 @@ A hierarchical **multi-agent system** built with **CrewAI** that simulates a ful
 - **Key Skills:** Agentic Workflows, CrewAI, Multi-Agent Orchestration, Google Gemini API, Task Delegation.
 - **Result:** Automated the generation of a comprehensive market research report, content calendar, and viral social scripts in under 3 minutes.
 
-### 3. [Potato Disease Classifier (Deep Learning & Web Deployment)](./CNN-Potato-Disease-Classifier/)
-![Potato Disease Classifier Demo GIF](https://github.com/AnasSayed27/AI-ML-Portfolio/blob/main/media/CNN-GIF.gif)
-
-A full-stack deep learning application that classifies potato leaf diseases from an uploaded image with **~92.66% accuracy**. The project showcases the complete MLOps lifecycle from model training in TensorFlow to deployment via a **FastAPI** web interface.
-
-- **Key Technologies:** Python, TensorFlow, Keras, FastAPI, HTML/CSS.
-
 ---
 
 ## 📂 Additional Machine Learning Projects
